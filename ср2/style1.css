@@ -1,0 +1,19 @@
+a:link {
+    text-decoration: none; /* Отключаем подчеркивание для неактивной ссылки */
+    color: inherit; /* Наследуем цвет текста по умолчанию */
+}
+
+a:visited {
+    text-decoration: none; /* Отключаем подчеркивание для посещенной ссылки */
+    color: inherit; /* Наследуем цвет текста по умолчанию */
+}
+
+a:hover {
+    text-decoration: none; 
+    color: rgb(0, 209, 0); 
+}
+
+a:active {
+    text-decoration: none; 
+    color: inherit; 
+}
